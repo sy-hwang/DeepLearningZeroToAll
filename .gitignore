@@ -11,3 +11,4 @@ Untitled*.ipynb
 xlab*
 logs
 .mypy_cache/
+myenv/
